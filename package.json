@@ -1,0 +1,23 @@
+{
+  "name": "paintrier-lowschool",
+  "version": "0.1.0",
+  "description": "interface with paintrier lowschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelfm1211/paintrier-lowschool.git"
+  },
+  "author": "Michael M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelfm1211/paintrier-lowschool/issues"
+  },
+  "homepage": "https://github.com/michaelfm1211/paintrier-lowschool#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
