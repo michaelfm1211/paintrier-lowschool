@@ -1,6 +1,6 @@
 {
   "name": "paintrier-lowschool",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "interface with paintrier lowschool",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "devDependencies": {
     "eslint": "^8.11.0",
     "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
