@@ -5,7 +5,7 @@ const colors = require('colors/safe');
  * @return {string}
  */
 function school() {
-  return 'paintier lowschool';
+  return 'paintier lowskool';
 }
 
 /**
