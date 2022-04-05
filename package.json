@@ -1,6 +1,6 @@
 {
   "name": "paintrier-lowschool",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "interface with paintrier lowschool",
   "main": "index.js",
   "scripts": {
